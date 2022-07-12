@@ -8,3 +8,4 @@ def name(s):
 	for i in range(65, 65 + s):
 		print(chr(i), end='')
 name(n)
+print('Some text for feature')
